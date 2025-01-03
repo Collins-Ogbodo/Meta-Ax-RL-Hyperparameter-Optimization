@@ -19,5 +19,4 @@ This repository demonstrates how to leverage Meta's Ax platform for efficient an
 
 - Clone this repository:
   ```bash
-  git clone
-  https://github.com/your-username/Meta-Ax-RL-Hyperparamter-Optimization.git
+  git clone https://github.com/your-username/Meta-Ax-RL-Hyperparamter-Optimization.git
